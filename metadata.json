@@ -1,0 +1,6 @@
+{
+  "name": "Dungeon Escape",
+  "description": "A 3D dungeon crawler game where you explore dark mazes, collect keys and coins, avoid traps, fight skeleton monsters, and find the exit.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
